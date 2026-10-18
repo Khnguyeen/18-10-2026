@@ -1,0 +1,15 @@
+D:\Code\Bai5_CryptoTicker\bin\Debug\net10.0-windows\Bai5_CryptoTicker.exe
+D:\Code\Bai5_CryptoTicker\bin\Debug\net10.0-windows\Bai5_CryptoTicker.deps.json
+D:\Code\Bai5_CryptoTicker\bin\Debug\net10.0-windows\Bai5_CryptoTicker.runtimeconfig.json
+D:\Code\Bai5_CryptoTicker\bin\Debug\net10.0-windows\Bai5_CryptoTicker.dll
+D:\Code\Bai5_CryptoTicker\bin\Debug\net10.0-windows\Bai5_CryptoTicker.pdb
+D:\Code\Bai5_CryptoTicker\obj\Debug\net10.0-windows\Bai5_CryptoTicker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Bai5_CryptoTicker\obj\Debug\net10.0-windows\Bai5_CryptoTicker.AssemblyInfoInputs.cache
+D:\Code\Bai5_CryptoTicker\obj\Debug\net10.0-windows\Bai5_CryptoTicker.AssemblyInfo.cs
+D:\Code\Bai5_CryptoTicker\obj\Debug\net10.0-windows\Bai5_CryptoTicker.csproj.CoreCompileInputs.cache
+D:\Code\Bai5_CryptoTicker\obj\Debug\net10.0-windows\Bai5_CryptoTicker.dll
+D:\Code\Bai5_CryptoTicker\obj\Debug\net10.0-windows\refint\Bai5_CryptoTicker.dll
+D:\Code\Bai5_CryptoTicker\obj\Debug\net10.0-windows\Bai5_CryptoTicker.pdb
+D:\Code\Bai5_CryptoTicker\obj\Debug\net10.0-windows\Bai5_CryptoTicker.genruntimeconfig.cache
+D:\Code\Bai5_CryptoTicker\obj\Debug\net10.0-windows\ref\Bai5_CryptoTicker.dll
+D:\Code\Bai5_CryptoTicker\obj\Debug\net10.0-windows\Bai5_Cry.6C92088C.Up2Date
