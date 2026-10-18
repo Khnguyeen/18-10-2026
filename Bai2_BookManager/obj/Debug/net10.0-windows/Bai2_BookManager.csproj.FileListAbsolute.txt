@@ -1,0 +1,15 @@
+D:\Code\Bai2_BookManager\bin\Debug\net10.0-windows\Bai2_BookManager.exe
+D:\Code\Bai2_BookManager\bin\Debug\net10.0-windows\Bai2_BookManager.deps.json
+D:\Code\Bai2_BookManager\bin\Debug\net10.0-windows\Bai2_BookManager.runtimeconfig.json
+D:\Code\Bai2_BookManager\bin\Debug\net10.0-windows\Bai2_BookManager.dll
+D:\Code\Bai2_BookManager\bin\Debug\net10.0-windows\Bai2_BookManager.pdb
+D:\Code\Bai2_BookManager\obj\Debug\net10.0-windows\Bai2_BookManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Bai2_BookManager\obj\Debug\net10.0-windows\Bai2_BookManager.AssemblyInfoInputs.cache
+D:\Code\Bai2_BookManager\obj\Debug\net10.0-windows\Bai2_BookManager.AssemblyInfo.cs
+D:\Code\Bai2_BookManager\obj\Debug\net10.0-windows\Bai2_BookManager.csproj.CoreCompileInputs.cache
+D:\Code\Bai2_BookManager\obj\Debug\net10.0-windows\Bai2_BookManager.dll
+D:\Code\Bai2_BookManager\obj\Debug\net10.0-windows\refint\Bai2_BookManager.dll
+D:\Code\Bai2_BookManager\obj\Debug\net10.0-windows\Bai2_BookManager.pdb
+D:\Code\Bai2_BookManager\obj\Debug\net10.0-windows\Bai2_BookManager.genruntimeconfig.cache
+D:\Code\Bai2_BookManager\obj\Debug\net10.0-windows\ref\Bai2_BookManager.dll
+D:\Code\Bai2_BookManager\obj\Debug\net10.0-windows\Bai2_Boo.C0BF11AD.Up2Date

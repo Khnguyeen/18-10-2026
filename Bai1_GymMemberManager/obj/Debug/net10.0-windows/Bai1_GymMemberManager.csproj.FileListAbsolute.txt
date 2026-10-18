@@ -1,0 +1,15 @@
+D:\Code\Bai1_GymMemberManager\bin\Debug\net10.0-windows\Bai1_GymMemberManager.exe
+D:\Code\Bai1_GymMemberManager\bin\Debug\net10.0-windows\Bai1_GymMemberManager.deps.json
+D:\Code\Bai1_GymMemberManager\bin\Debug\net10.0-windows\Bai1_GymMemberManager.runtimeconfig.json
+D:\Code\Bai1_GymMemberManager\bin\Debug\net10.0-windows\Bai1_GymMemberManager.dll
+D:\Code\Bai1_GymMemberManager\bin\Debug\net10.0-windows\Bai1_GymMemberManager.pdb
+D:\Code\Bai1_GymMemberManager\obj\Debug\net10.0-windows\Bai1_GymMemberManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Bai1_GymMemberManager\obj\Debug\net10.0-windows\Bai1_GymMemberManager.AssemblyInfoInputs.cache
+D:\Code\Bai1_GymMemberManager\obj\Debug\net10.0-windows\Bai1_GymMemberManager.AssemblyInfo.cs
+D:\Code\Bai1_GymMemberManager\obj\Debug\net10.0-windows\Bai1_GymMemberManager.csproj.CoreCompileInputs.cache
+D:\Code\Bai1_GymMemberManager\obj\Debug\net10.0-windows\Bai1_GymMemberManager.dll
+D:\Code\Bai1_GymMemberManager\obj\Debug\net10.0-windows\refint\Bai1_GymMemberManager.dll
+D:\Code\Bai1_GymMemberManager\obj\Debug\net10.0-windows\Bai1_GymMemberManager.pdb
+D:\Code\Bai1_GymMemberManager\obj\Debug\net10.0-windows\Bai1_GymMemberManager.genruntimeconfig.cache
+D:\Code\Bai1_GymMemberManager\obj\Debug\net10.0-windows\ref\Bai1_GymMemberManager.dll
+D:\Code\Bai1_GymMemberManager\obj\Debug\net10.0-windows\Bai1_Gym.A3FE07CE.Up2Date

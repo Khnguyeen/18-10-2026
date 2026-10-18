@@ -1,0 +1,15 @@
+D:\Code\Bai3_HospitalMDI\bin\Debug\net10.0-windows\Bai3_HospitalMDI.exe
+D:\Code\Bai3_HospitalMDI\bin\Debug\net10.0-windows\Bai3_HospitalMDI.deps.json
+D:\Code\Bai3_HospitalMDI\bin\Debug\net10.0-windows\Bai3_HospitalMDI.runtimeconfig.json
+D:\Code\Bai3_HospitalMDI\bin\Debug\net10.0-windows\Bai3_HospitalMDI.dll
+D:\Code\Bai3_HospitalMDI\bin\Debug\net10.0-windows\Bai3_HospitalMDI.pdb
+D:\Code\Bai3_HospitalMDI\obj\Debug\net10.0-windows\Bai3_HospitalMDI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Bai3_HospitalMDI\obj\Debug\net10.0-windows\Bai3_HospitalMDI.AssemblyInfoInputs.cache
+D:\Code\Bai3_HospitalMDI\obj\Debug\net10.0-windows\Bai3_HospitalMDI.AssemblyInfo.cs
+D:\Code\Bai3_HospitalMDI\obj\Debug\net10.0-windows\Bai3_HospitalMDI.csproj.CoreCompileInputs.cache
+D:\Code\Bai3_HospitalMDI\obj\Debug\net10.0-windows\Bai3_HospitalMDI.dll
+D:\Code\Bai3_HospitalMDI\obj\Debug\net10.0-windows\refint\Bai3_HospitalMDI.dll
+D:\Code\Bai3_HospitalMDI\obj\Debug\net10.0-windows\Bai3_HospitalMDI.pdb
+D:\Code\Bai3_HospitalMDI\obj\Debug\net10.0-windows\Bai3_HospitalMDI.genruntimeconfig.cache
+D:\Code\Bai3_HospitalMDI\obj\Debug\net10.0-windows\ref\Bai3_HospitalMDI.dll
+D:\Code\Bai3_HospitalMDI\obj\Debug\net10.0-windows\Bai3_Hos.0669ED6D.Up2Date
